@@ -1,5 +1,4 @@
 ## Better touchpad responsiveness
-
 Create the file /etc/X11/xorg.conf.d/50-touchpad.conf and add the following to it:
 
 ```
